@@ -1,0 +1,18 @@
+h1 {
+    color: #c981c9
+}
+
+.Named-Colors {
+    color: cyan;
+    font-size: 50px;
+}
+
+.Hex-Colors {
+    color: #c781b341;
+    font-size: 50px;
+}
+
+.RGB-Colors {
+    color: rgb(55, 70, 155);
+    font-size: 50px;
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+nav {
+    background-color: #c745;
+    border-bottom-width: 2px;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+a:hover {
+    color: darkgoldenrod;
+    font-weight: 500;
+}

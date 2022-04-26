@@ -1,0 +1,8 @@
+div {
+    border: 2px solid blue;
+    width: 51px;
+    height: 49px;
+    margin: 12px;
+    padding: 5px;
+    display: inline-block;
+}
