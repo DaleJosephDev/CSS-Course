@@ -1,0 +1,11 @@
+.Margin {
+border: 1px solid blue;
+margin: 5px 6px 7px 8px;
+margin-top: 10px;
+margin-bottom: 50px;
+}
+
+.Padding {
+    border: 1px solid blue;
+    padding: 5px;
+}
