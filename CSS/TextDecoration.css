@@ -1,0 +1,20 @@
+span.Overline {
+text-decoration: overline;
+text-decoration-style: dashed;
+text-decoration-color: brown;
+font-size: 50px;
+}
+
+span.LineThrough {
+text-decoration: line-through;
+text-decoration-style: dotted;
+text-decoration-color: aqua;
+font-size: 50px;
+}
+
+span.Underline {
+text-decoration: underline;
+text-decoration-style: wavy;
+text-decoration-color: red;
+font-size: 50px;
+}
