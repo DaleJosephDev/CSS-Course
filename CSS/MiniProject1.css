@@ -19,16 +19,22 @@ body {
     margin: 0 auto;
     margin-bottom: 15px;
     padding: 15px;
-    width: 50%;
+    width: 30%;
   }
 
   label {
     margin: 0 auto;
+    font-size: 20px;
   }
 
   input, textarea {
-    background-image: url('../Images/milky-way-ge8269c2cd_1920.jpg');
+    background-color: #bfffd0;
     color: #ccc;
     border: 5px solid #ccc;
+    font-size: 20px;
+  }
+
+  button {
+    width: 12%;
   }
   
