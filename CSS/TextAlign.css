@@ -1,0 +1,15 @@
+p.Left{
+text-align: left;
+}
+
+p.Justified {
+text-align: justify;
+}
+
+p.Right {
+text-align: right;
+}
+
+p.Center {
+text-align: center;
+}
