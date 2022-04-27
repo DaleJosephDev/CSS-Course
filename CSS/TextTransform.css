@@ -1,0 +1,15 @@
+p.Lowercase {
+text-transform: lowercase;
+}
+
+p.Uppercase {
+text-transform: uppercase;
+}
+
+p.Capitalize {
+text-transform: capitalize;
+}
+
+p.Lowercase, p.Uppercase, p.Capitalize {
+    text-transform: initial;
+}
