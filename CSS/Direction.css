@@ -1,0 +1,12 @@
+.ltr {
+    direction: ltr;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+}
