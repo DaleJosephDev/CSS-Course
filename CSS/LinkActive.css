@@ -1,0 +1,17 @@
+.Active1 {
+    text-decoration: none;
+    color: black;;
+}
+
+.Active1:hover {
+    color: red;
+    font-size: 15px;
+}
+
+.Active1:visited {
+    color: red;
+}
+
+.Active1:active {
+color: blue;
+}

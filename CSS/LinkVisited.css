@@ -1,0 +1,15 @@
+.Visited {
+    text-decoration: none;
+    color: #000;
+    font-size: 50px;
+}
+
+.Visited:hover {
+    font-size: 80px;
+    color: #c95c31;
+    text-decoration: wavy;
+}
+
+.Visited:visited {
+    color: red;
+}
