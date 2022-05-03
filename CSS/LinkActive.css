@@ -1,16 +1,16 @@
 .Active1 {
     text-decoration: none;
-    color: black;
+    color: red;
     font-size: 10px;
 }
 
 .Active1:hover {
-    color: red;
+    color: orange;
     font-size: 15px;
 }
 
 .Active1:visited {
-    color: red;
+    color: darkcyan;
     font-size: 20px;
 }
 
