@@ -1,0 +1,11 @@
+div p span.span {
+    color: blue;
+}
+
+span.span {
+    color: red;
+}
+
+span.span {
+    color: blue;
+}
